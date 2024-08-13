@@ -13,7 +13,7 @@ This project involves building a streaming data pipeline. The data is sourced fr
 - `Apache Spark`: The Spark engine is utilized for data processing, with its master and worker nodes handling the distributed computation and transformation of the data.
 - `Cassandra`: The processed data is ultimately stored in the Cassandra database, providing a scalable and durable data storage solution.
 
-### Technologies
+### TECHNOLOGIES
 - Docker
 - Python
 - Apache Airflow
